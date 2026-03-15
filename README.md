@@ -21,7 +21,7 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 ### 11.1.2025
 
-Kami V2.0 is split into three parts: chassis, base plate, and top plate. The top plate serves as a mounting plate for the PCB and features a honey comb pattern for wires to pass through. Very quickly, I realized electronic parts would be difficult to assemble, so the chassis and top plate became separate parts held by friction. Line sensor holes were added to the bottom and distance sensor holes were added to the front. The base plate was CADed separately by another mechanical sub-team member, so this model does not include a separate base plate.   
+Kami V2.0 is split into three parts: chassis, base plate, and top plate. The top plate serves as a mounting plate for the PCB and features a honey comb pattern for wires to pass through. I noticed electronic parts would be difficult to assemble, so the chassis and top plate became separate parts held by friction. Line sensor holes were added to the bottom and distance sensor holes were added to the front. The base plate was CADed separately by another mechanical sub-team member, so this model does not include a separate base plate.   
 <br>
 After 3D printing Kami V2.0, we discovered tolerancing issues with the distance sensors which would require adjusting the CAD model and reprinting.
 
