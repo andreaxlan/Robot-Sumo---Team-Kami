@@ -15,6 +15,16 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 # Timeline
 
+## Kami V2.0
+
+<img src="https://github.com/andreaxlan/RobotSumo/blob/994e723dd7dec08882a990ae7427d056e11128f2/Photos/V2.0.png" width="400">
+
+### 11.1.2025
+
+Kami V2.0 is split into three parts: chassis, base plate, and top plate. The top plate serves as a mounting plate for the PCB and features a honey comb pattern for wires to pass through. Very quickly, I realized electronic parts would be difficult to assemble, so the chassis and top plate became separate parts held by friction. Line sensor holes were added to the bottom and distance sensor holes were added to the front. The base plate was CADed separately by another mechanical sub-team member, so this model does not include a separate base plate.   
+<br>
+After 3D printing Kami V2.0, we discovered tolerancing issues with the distance sensors which would require adjusting the CAD model and reprinting.
+
 ## Kami V1.0 
 
 <img src="https://github.com/andreaxlan/RobotSumo/blob/f5a8ca1e35a62731af90808d16fc0f3c174d1ab0/Photos/V1.0.png" width="400">
