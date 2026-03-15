@@ -19,6 +19,7 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 <div style="display: flex; gap 10px;">
   <img src="https://github.com/andreaxlan/RobotSumo/blob/e15814807f15c894c832ecc52b4527596f265548/Photos/V4.0.png" width="400">
+  <img src="https://github.com/andreaxlan/RobotSumo/blob/e1022f421a1cb862627559c27f78c3465e2bdb24/Photos/V4.0%20EXPLODED.png" width="600">
 </div>
 
 
