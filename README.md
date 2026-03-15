@@ -16,8 +16,11 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 # Timeline
 
 ## Kami V1.0 
+
 <img src="https://github.com/andreaxlan/RobotSumo/blob/f5a8ca1e35a62731af90808d16fc0f3c174d1ab0/Photos/V1.0.png" width="400">
+
+### 10.2.2025
+
 The first few weeks of Robot Sumo were dedicated to new member training. Mechanical sub-team members recieved basic SOLIDWORKS training and were given general design guidelines. After meeting my teammates, our team weighed pros and cons between several concept designs and decided to build a robot with two flag arms. The purpose of the flags is to extend the robot so that the sensors of opposing robots will be misguided to aim for the flags instead of our robot chassis.   
-<br>
 <br>
 Kami V1.0 is a mock assembly of our robot. I wanted to figure out the general shape of our robot and the parts we would be using before fully committing to a complex CAD design.
